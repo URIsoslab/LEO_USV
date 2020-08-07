@@ -1,2 +1,2 @@
-# LEO_USV
-Document/software/mechanical design of the Leo USV
+# LEO_USV electronics-release
+This folder include related electronics datasheets and documents for the Leo USV
